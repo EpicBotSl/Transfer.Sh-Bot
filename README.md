@@ -1,6 +1,6 @@
 # Epic </> SH-Bot
 
-<p align="center"><img src="https://telegra.ph/file/2429294ae970160bb9b07.mp4"></p>
+<p align="center"><img src="https://telegra.ph/file/ef9f622a16af1e7f93f4a.jpg"></p>
 
 
 <b>Telegram bot to upload files to transfer.sh remotely Also Host on Heroku Eassyly.!</b>
