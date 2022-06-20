@@ -6,7 +6,7 @@
 
   "keywords": ["uploader","python"],
 
-  "repository": "",
+  "repository": "https://github.com/EpicBotSl/Transfer.Sh-Bot",
 
   "env": {
 
@@ -14,7 +14,7 @@
 
       "description": "Your bot token, as a string.",
 
-      "value": "5480200873:AAFuvHqXlzfPUdpOATHts6-5v_B21VFvWjE"
+      "value": "5371341895:AAE2O0Al-DXVCaqEeG7Oe3lVPoe9eM2BUq0"
 
     },
 
@@ -22,7 +22,7 @@
 
       "description": "Get this value from https://my.telegram.org",
 
-      "value": "18895284"
+      "value": "16884543"
 
     },
 
@@ -30,7 +30,7 @@
 
       "description": "Get this value from https://my.telegram.org",
 
-      "value": "3091d00186aa25b92a9b791dcebd59de"
+      "value": "cc4535cefe1fa2e167d75a5e2ac24246"
 
     }
 
